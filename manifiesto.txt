@@ -1,6 +1,10 @@
-<manifiesto>
-	$import esquemas;
-	$import referencias;
+<manifiesto lang="es" author="Manuel Montero">
+	<script>
+		$$(function(){
+			$("manifiesto").load("esquemas"); 
+			$("manifiesto").load("referencias"); 
+		}); 
+	</script>
 	<propuesta>
 	A toda la <$población>, 
 		Hemos salido de los hipervínculos para volver a ellos. 
@@ -24,14 +28,15 @@
 		<objetivo>Acabar con la tipografía con serifa</objetivo>
 		<objetivo>Que la universidad no sólo cuestione el contenido y la materia, sino la forma.</objetivo>
 		<objetivo>Que la universidad abandone la perspectiva renacentista de documento que se reedita y acepte un histórico de versiones de un mismo archivo.</objetivo>
+		<objetivo>Crear un repositorio público en GitHub https://github.com/mmonteroUOC/manifiesto </objetivo>
 		<objetivo>Publicar el manifiesto, autoreferenciado, en gitHub https://github.com/mmonteroUOC/manifiesto/blob/main/manifiesto.txt/</objetivo>
 	</lista>	
 </manifiesto>
 
 <esquemas>
-	<población>
+	<$población>
 		Con capacidad lectora del lenguaje castellano en una pantalla.<ToDo>Implementar otros lenguajes.</ToDo>
-	</población>
+	<$/población>
 	<$ADOBE>
 		<2020>
 			<activos>27.241.000.000</activos>
