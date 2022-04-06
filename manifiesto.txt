@@ -1,0 +1,49 @@
+<manifiesto>
+	$import esquemas;
+	$import referencias;
+	<propuesta>
+	A toda la <$población>, 
+		Hemos salido de los hipervínculos para volver a ellos. 
+		Hemos venido a reventar el .PDF [Portable Document Format] y a matar a <$ADOBE>.
+		Y en su lugar, texto plano. JSON/XML/HTML. 
+		Contra la burocracia cómplice del software privativo.
+		Contra las instituciones educativas cómplices del estandar de facto.
+	</propuesta>
+	<café \>
+	<lista>
+		<paso>Advertir del sinsentido de entregar en .pdf un manifiesto para el Internet de 2022.</paso>
+		<paso>Advertir del error de utilizar estándares de facto propios de empresas privativas.</paso>
+		<paso>Rechazar el uso de software privativo para la creación de .pdf´s.</paso>
+		<paso>Rechazar el uso de software libre como bypass de las licencias privativas mientras se asume su narrativa pay-to-learn.</paso>
+		<paso>Exportar contenido plano a .pdf´s cuando sea estrictamente necesario.</paso>
+		<paso>Entregar y difundir .pdf´s corruptos e inocuos.</paso>
+	</lista>
+	<café decaf=true\>
+	<lista>		
+		<objetivo>Publicar el manifiesto en digital</objetivo>
+		<objetivo>Acabar con la tipografía con serifa</objetivo>
+		<objetivo>Que la universidad no sólo cuestione el contenido y la materia, sino la forma.</objetivo>
+		<objetivo>Que la universidad abandone la perspectiva renacentista de documento que se reedita y acepte un histórico de versiones de un mismo archivo.</objetivo>
+		<objetivo>Publicar el manifiesto, autoreferenciado, en gitHub https://www.infinityfree.net/</objetivo>
+	</lista>	
+</manifiesto>
+
+<esquemas>
+	<población>
+		Con capacidad lectora del lenguaje castellano en una pantalla.<ToDo>Implementar otros lenguajes.</ToDo>
+	</población>
+	<$ADOBE>
+		<2020>
+			<activos>27.241.000.000</activos>
+			<ingresos>13.000.000.000$</ingresos>
+			<empleados>23.000</empleados>
+		</2020>
+	</$ADOBE>
+</esquemas>
+<referencias>	
+	<humano>Himanen, Pekka</humano>
+	<humano>Tempest, Kae</humano>
+	<cíborg>Haraway, Donna</cíborg>
+	<perro>Cactus</perro>
+	<alcaloide>Cafeína</alcaloide>
+</referencias>
