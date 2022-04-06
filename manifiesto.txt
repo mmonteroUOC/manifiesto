@@ -24,7 +24,7 @@
 		<objetivo>Acabar con la tipografía con serifa</objetivo>
 		<objetivo>Que la universidad no sólo cuestione el contenido y la materia, sino la forma.</objetivo>
 		<objetivo>Que la universidad abandone la perspectiva renacentista de documento que se reedita y acepte un histórico de versiones de un mismo archivo.</objetivo>
-		<objetivo>Publicar el manifiesto, autoreferenciado, en gitHub https://www.infinityfree.net/</objetivo>
+		<objetivo>Publicar el manifiesto, autoreferenciado, en gitHub https://github.com/mmonteroUOC/manifiesto/blob/main/manifiesto.txt/</objetivo>
 	</lista>	
 </manifiesto>
 
